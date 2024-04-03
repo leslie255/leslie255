@@ -1,4 +1,4 @@
-# Hi
+# 👋 Hi
 I'm Leslie, I do mostly useless projects here (but I love them!).
 
 ## Contact:

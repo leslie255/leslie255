@@ -3,7 +3,7 @@ I'm Leslie, I do mostly useless projects here (but I love them!).
 
 ## Contact:
 - Email: [kerbal255@outlook.com](mailto:kerbal255@outlook.com)
-- Discord: @kerbal_255
+- Discord: @kerbal.255
 
 ## Donations:
 - 🩷 Github Sponsor: [github.com/sponsors/leslie255](https://github.com/sponsors/leslie255)
